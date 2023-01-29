@@ -1,0 +1,15 @@
+/Users/prime/Desktop/FINAL TEST/bin/Debug/net6.0/FINAL TEST
+/Users/prime/Desktop/FINAL TEST/bin/Debug/net6.0/FINAL TEST.deps.json
+/Users/prime/Desktop/FINAL TEST/bin/Debug/net6.0/FINAL TEST.runtimeconfig.json
+/Users/prime/Desktop/FINAL TEST/bin/Debug/net6.0/FINAL TEST.dll
+/Users/prime/Desktop/FINAL TEST/bin/Debug/net6.0/FINAL TEST.pdb
+/Users/prime/Desktop/FINAL TEST/obj/Debug/net6.0/FINAL TEST.csproj.AssemblyReference.cache
+/Users/prime/Desktop/FINAL TEST/obj/Debug/net6.0/FINAL TEST.GeneratedMSBuildEditorConfig.editorconfig
+/Users/prime/Desktop/FINAL TEST/obj/Debug/net6.0/FINAL TEST.AssemblyInfoInputs.cache
+/Users/prime/Desktop/FINAL TEST/obj/Debug/net6.0/FINAL TEST.AssemblyInfo.cs
+/Users/prime/Desktop/FINAL TEST/obj/Debug/net6.0/FINAL TEST.csproj.CoreCompileInputs.cache
+/Users/prime/Desktop/FINAL TEST/obj/Debug/net6.0/FINAL TEST.dll
+/Users/prime/Desktop/FINAL TEST/obj/Debug/net6.0/refint/FINAL TEST.dll
+/Users/prime/Desktop/FINAL TEST/obj/Debug/net6.0/FINAL TEST.pdb
+/Users/prime/Desktop/FINAL TEST/obj/Debug/net6.0/FINAL TEST.genruntimeconfig.cache
+/Users/prime/Desktop/FINAL TEST/obj/Debug/net6.0/ref/FINAL TEST.dll
